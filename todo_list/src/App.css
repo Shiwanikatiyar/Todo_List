@@ -1,5 +1,13 @@
+.App{
+  border: 3px solid black ;
+  background-color: skyblue;
+
+}
+h1{
+  text-align: center;
+}
 form{
-  width: 1170px;
+  width:670px;
   margin:auto ;
   display:flex ;
   gap: 20px;
@@ -10,10 +18,11 @@ form input{
 }
 form button{
   flex-basis: 20%;
+  background-color:rgb(10, 226, 241);
 
 }
 .outer-div{
-  width: 1170px;
+  width: 670px;
   margin: auto;
 }
 .outer-div ul{
